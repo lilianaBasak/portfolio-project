@@ -12,10 +12,10 @@
 }
 
 :root {
-  --bg-color: #112e3e;
-  --second-bg-color: #2b4c5c;
+  --bg-color:#112e3e;
+  --second-bg-color:#2b4c5c;
   --tex-color: #f2e6cf;
-  --main-color:   #d48d63  ;
+  --main-color: #d29b8c   ;
 }
 html {
   font-size: 62.5%;
@@ -25,7 +25,7 @@ html::-webkit-scrollbar {
 }
 
 html::-webkit-scrollbar-thumb {
-  background:   #d48d63  ;
+  background:    #d29b8c   ;
   border-radius: 5px;
 }
 
